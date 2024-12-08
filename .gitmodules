@@ -1,3 +1,6 @@
 [submodule "week02/oii-fsds-wikipedia"]
 	path = week02/oii-fsds-wikipedia
 	url = https://github.com/RyanOthnielKearns/oii-fsds-wikipedia
+[submodule "fsstds"]
+	path = fsstds
+	url = https://github.com/RyanOthnielKearns/fsstds
