@@ -4,3 +4,12 @@
 [submodule "fsstds"]
 	path = fsstds
 	url = https://github.com/RyanOthnielKearns/fsstds
+[submodule "week03/oii-fsds-textanalysis"]
+	path = week03/oii-fsds-textanalysis
+	url = https://github.com/RyanOthnielKearns/oii-fsds-textanalysis.git
+[submodule "week03/oii-fsds-spatial-distance"]
+	path = week03/oii-fsds-spatial-distance
+	url = https://github.com/RyanOthnielKearns/oii-fsds-spatial-distance.git
+[submodule "week03/oii-fundamentals-week-03-01-presentation"]
+	path = week03/oii-fundamentals-week-03-01-presentation
+	url = https://github.com/RyanOthnielKearns/oii-fundamentals-week-03-01-presentation.git
